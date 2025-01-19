@@ -1,0 +1,1 @@
+Exercise from Rust book
